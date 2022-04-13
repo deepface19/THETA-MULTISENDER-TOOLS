@@ -1,0 +1,25 @@
+{
+  "name": "theta-multisender-tools-hardhat",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".eslintrc.js",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "ethereum-waffle": "^3.4.0",
+    "ethers": "^5.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepface19/THETA-TOOLS.git"
+  },
+  "author": "deepface19",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deepface19/THETA-TOOLS/issues"
+  },
+  "homepage": "https://github.com/deepface19/THETA-TOOLS#readme"
+}
