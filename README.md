@@ -1,4 +1,5 @@
-# THETA-MULTISENDER-TOOLS for HACKATHON THETA
+# THETA-MULTISENDER-TOOLS for HACKATHON THETA 
+### LOW FEES 
 
 ### BETA VERSION : https://theta-multisender-tools.web.app/
 
