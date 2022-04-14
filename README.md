@@ -1,13 +1,18 @@
 # THIS THETA MULTISENDER TOOLS FOR HACKATHON THETA 
 
-### LOW FEES 
 ### DEMO VIDEO :
 ### BETA VERSION : https://theta-multisender-tools.web.app/
 
 
+## FEATURES THETA MULTISENDER TOOLS
+#### Transfer to multiple addresses with low fees
+#### Transfer TFUEL to multiple addresses
+#### Transfer TNT-20 to multiple addresses
+#### Transfer TNT-721 to multiple addresses
+#### Transfer TNT-1155 to multiple addresses
 
-### HOW TO USE THETA-MULTISENDER-TOOLS
 
+# HOW TO USE THETA-MULTISENDER-TOOLS
 ## MAX 200 ADDRESS PER TRANSACTION
  
  ### TFUEL MULTISENDER : 
