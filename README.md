@@ -13,6 +13,7 @@
 
 
 # HOW TO USE THETA-MULTISENDER-TOOLS
+### STRUCTURE : ![ARCITECTURE THETA TOOLS](https://user-images.githubusercontent.com/59292798/163484015-f3f4941b-cbbb-42fa-b9c4-a4eae29f67b0.png)
 
 ### MAX 200 ADDRESS PER TRANSACTION
 
