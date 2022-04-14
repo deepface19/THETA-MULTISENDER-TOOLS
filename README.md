@@ -58,3 +58,26 @@
  0x5iqefywevbfwevfw8uefb8bwfevqbyefbwye,10013,100
  0xdfwefnwebf8bqewefniuebfewufguyvefube,15000,1000
 ```
+
+## AVAILABLE ON NETWORK 
+### TESTNET ✅
+### MAINNET ✅
+
+## SETUP & INSTALL DEPENDENCIES
+```
+git clone https://github.com/deepface19/THETA-MULTISENDER-TOOLS.git
+npm install
+```
+RUN Localhost & RUN Productions Build
+
+```
+npm start 
+npm run build
+```
+
+## SETUP CONTRACT WITH HARDHAT
+```
+cd hardhat 
+yarn deploy:testnet // yarn deploy:mainnet
+# setup your smart contract or change network in hardhat.config.ts
+```
