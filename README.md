@@ -1,7 +1,9 @@
 # THIS THETA MULTISENDER TOOLS FOR HACKATHON THETA 
 
 ### DEMO VIDEO : https://youtu.be/qidym96Tyt4
+
 ### BETA VERSION : https://theta-multisender-tools.web.app/
+!!! Use PC or DESKTOP MODE on mobile phone
 
 
 # FEATURES THETA MULTISENDER TOOLS
