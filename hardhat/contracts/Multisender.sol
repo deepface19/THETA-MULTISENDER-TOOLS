@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: MIT 
+// this main contract multisender
 pragma solidity 0.8.2;
 
 interface IERC20 {
